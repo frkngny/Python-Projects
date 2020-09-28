@@ -26,5 +26,5 @@ def send_mail(text="Email body", subject="Hello World", from_email="YOUR_MAIL_AD
 **In Inbox tab, for each unseen mail in your inbox you need to hit 'Search For Unseen Mail' button.**
 
 **PyQt is just for sending text mails to only one person. If you want to use python file only, you can add images or files as you need.**
-**And you can send your mail to several people by giving 'to_email' as a string list.** *(As in ['abc@aaa.com', 'qwe@bbb.com'])*
+**And you can send your mail to several people by giving 'to_email' as a string list.** *(As in ['abc@aaa.com', '123@bbb.com'])*
 
